@@ -56,7 +56,7 @@ Please feel free to [pull requests](https://github.com/D-X-Y/awesome-NAS/pulls) 
   - Richard Shin, Charles Packer, Dawn Song, ICLR 2018 Workshop
 - Understanding and Simplifying One-Shot Architecture Search [[pdf]](http://proceedings.mlr.press/v80/bender18a/bender18a.pdf)
   - Bender, Gabriel and Kindermans, Pieter-Jan and Zoph, Barret and Vasudevan, Vijay and Le, Quoc. ICML 2018
-- SMASH: One-Shot Model Architecture Search through HyperNetworks [[pdf]](https://arxiv.org/pdf/1708.05344.pdf)
+- SMASH: One-Shot Model Architecture Search through HyperNetworks [[pdf]](https://arxiv.org/pdf/1708.05344.pdf)[[code]](https://github.com/ajbrock/SMASH)
   - Brock, Andrew and Lim, Theodore and Ritchie, James M and Weston, Nick. ICLR 2018
 - Neural Architecture Optimization [[pdf]](https://arxiv.org/pdf/1808.07233.pdf) [[code]](https://github.com/renqianluo/NAO)
   - Luo, Renqian and Tian, Fei and Qin, Tao and Liu, Tie-Yan. NIPS 2018
