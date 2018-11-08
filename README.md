@@ -33,7 +33,7 @@ Please feel free to [pull requests](https://github.com/D-X-Y/awesome-NAS/pulls) 
   - Barret Zoph, Vijay Vasudevan, Jonathon Shlens, Quoc V. Le. CVPR 2018
 - Practical Block-wise Neural Network Architecture Generation [[pdf]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhong_Practical_Block-Wise_Neural_CVPR_2018_paper.pdf)
   - Zhong, Zhao and Yan, Junjie and Wu, Wei and Shao, Jing and Liu, Cheng-Lin. CVPR 2018
-- Efficient Neural Architecture Search via Parameter Sharing [[pdf]](http://proceedings.mlr.press/v80/pham18a.html)
+- Efficient Neural Architecture Search via Parameter Sharing [[pdf]](http://proceedings.mlr.press/v80/pham18a.html) [[code]](https://github.com/carpedm20/ENAS-pytorch)
   - Pham, Hieu and Guan, Melody Y and Zoph, Barret and Le, Quoc V and Dean, Jeff. ICML 2018
 - MnasNet: Platform-Aware Neural Architecture Search for Mobile [[pdf]](https://arxiv.org/pdf/1807.11626.pdf) [[code]](https://github.com/AnjieZheng/MnasNet-PyTorch)
   - Mingxing Tan, Bo Chen, Ruoming Pang, Vijay Vasudevan, Quoc V. Le. arXiv 2018.07
